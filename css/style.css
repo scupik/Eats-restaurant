@@ -1,0 +1,92 @@
+/* header */
+.header {
+}
+.header__logo-link {
+}
+.header__logo-img {
+  width: 150px;
+  height: 65px;
+}
+.header__nav {
+}
+.header__nav-list {
+}
+.header__nav-item {
+}
+.header__nav-link {
+    color: #252B42;
+text-align: center;
+
+/* Link */
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 28px; /* 175% */
+letter-spacing: 0.2px;
+}
+
+/* hero */
+.hero {
+}
+.section {
+}
+.hero__text {
+}
+.hero__title {
+}
+.hero__button-text {
+}
+.hero__button {
+}
+
+/* works */
+.works {
+}
+.works__title {
+    color: #000;
+font-family: Poppins;
+font-size: 44px;
+font-weight: 600;
+line-height: 36px; /* 81.818% */
+letter-spacing: 0.1px;
+}
+.works__list {
+}
+.works__item {
+}
+.works__img {
+}
+.works__link {
+    color: #FA4A0C;
+
+/* H3 */
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px; /* 150% */
+letter-spacing: 0.1px;
+}
+.works__subtitle {
+}
+.works__text {
+}
+
+/* order */
+.order {
+}
+.order__title {
+}
+.order__text {
+}
+.order__button {
+}
+
+/* footer */
+.footer {
+}
+.header__logo {
+}
+.header__logo-img {
+}
+.footer__text {
+}
