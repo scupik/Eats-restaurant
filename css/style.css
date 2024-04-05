@@ -31,12 +31,45 @@ letter-spacing: 0.2px;
 .section {
 }
 .hero__text {
+    color: #F6F6F6;
+text-align: center;
+
+/* H3 */
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px; /* 150% */
+letter-spacing: 0.1px;
 }
 .hero__title {
+    color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 58px;
+font-weight: 700;
+line-height: 80px; /* 137.931% */
+letter-spacing: 0.2px;
 }
 .hero__button-text {
+    color: #F6F6F6;
+text-align: center;
+
+/* H4 */
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 500;
+line-height: 38px; /* 158.333% */
+letter-spacing: 0.2px;
 }
 .hero__button {
+    color: var(--Light-text, #FFF);
+
+/* H3 */
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px; /* 150% */
+letter-spacing: 0.1px;
 }
 
 /* works */
@@ -55,6 +88,8 @@ letter-spacing: 0.1px;
 .works__item {
 }
 .works__img {
+    width: 250px;
+height: 506px;
 }
 .works__link {
     color: #FA4A0C;
@@ -67,18 +102,60 @@ line-height: 36px; /* 150% */
 letter-spacing: 0.1px;
 }
 .works__subtitle {
+    color: var(--text, #252B42);
+
+/* H2 */
+font-family: Montserrat;
+font-size: 40px;
+font-weight: 700;
+line-height: 57px; /* 142.5% */
+letter-spacing: 0.2px;
 }
 .works__text {
+    color: var(--second-text, #737373);
+
+/* H4 */
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 500;
+line-height: 38px; /* 158.333% */
+letter-spacing: 0.2px;
 }
 
 /* order */
 .order {
 }
 .order__title {
+    color: var(--Light-text, #FFF);
+text-align: center;
+
+/* H2 */
+font-family: Montserrat;
+font-size: 40px;
+font-weight: 700;
+line-height: 57px; /* 142.5% */
+letter-spacing: 0.2px;
 }
 .order__text {
+    color: #FFF;
+text-align: center;
+
+/* H4 */
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 500;
+line-height: 38px; /* 158.333% */
+letter-spacing: 0.2px;
 }
 .order__button {
+    color: var(--Light-text, #FFF);
+
+/* Button */
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 28px; /* 175% */
+letter-spacing: 0.2px;
 }
 
 /* footer */
@@ -87,6 +164,17 @@ letter-spacing: 0.1px;
 .header__logo {
 }
 .header__logo-img {
+    width: 150px;
+    height: 65px;
 }
 .footer__text {
+    color: var(--second-text, #5C5C5C);
+text-align: right;
+
+/* Subtitle */
+font-family: Roboto;
+font-size: 12px;
+font-weight: 700;
+line-height: 18px; /* 150% */
+letter-spacing: 0.1px;
 }
