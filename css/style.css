@@ -1,3 +1,8 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
 /* header */
 .header {
 }
@@ -18,7 +23,7 @@
 text-align: center;
 
 /* Link */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 16px;
 font-weight: 600;
 line-height: 28px; /* 175% */
@@ -35,7 +40,7 @@ letter-spacing: 0.2px;
 text-align: center;
 
 /* H3 */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 24px;
 font-weight: 700;
 line-height: 36px; /* 150% */
@@ -44,7 +49,7 @@ letter-spacing: 0.1px;
 .hero__title {
     color: #FFF;
 text-align: center;
-font-family: Poppins;
+font-family: "Poppins";
 font-size: 58px;
 font-weight: 700;
 line-height: 80px; /* 137.931% */
@@ -55,7 +60,7 @@ letter-spacing: 0.2px;
 text-align: center;
 
 /* H4 */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 24px;
 font-weight: 500;
 line-height: 38px; /* 158.333% */
@@ -65,7 +70,7 @@ letter-spacing: 0.2px;
     color: var(--Light-text, #FFF);
 
 /* H3 */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 24px;
 font-weight: 700;
 line-height: 36px; /* 150% */
@@ -77,7 +82,7 @@ letter-spacing: 0.1px;
 }
 .works__title {
     color: #000;
-font-family: Poppins;
+font-family: "Poppins";
 font-size: 44px;
 font-weight: 600;
 line-height: 36px; /* 81.818% */
@@ -95,7 +100,7 @@ height: 506px;
     color: #FA4A0C;
 
 /* H3 */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 24px;
 font-weight: 700;
 line-height: 36px; /* 150% */
@@ -105,7 +110,7 @@ letter-spacing: 0.1px;
     color: var(--text, #252B42);
 
 /* H2 */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 40px;
 font-weight: 700;
 line-height: 57px; /* 142.5% */
@@ -115,7 +120,7 @@ letter-spacing: 0.2px;
     color: var(--second-text, #737373);
 
 /* H4 */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 24px;
 font-weight: 500;
 line-height: 38px; /* 158.333% */
@@ -130,7 +135,7 @@ letter-spacing: 0.2px;
 text-align: center;
 
 /* H2 */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 40px;
 font-weight: 700;
 line-height: 57px; /* 142.5% */
@@ -141,7 +146,7 @@ letter-spacing: 0.2px;
 text-align: center;
 
 /* H4 */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 24px;
 font-weight: 500;
 line-height: 38px; /* 158.333% */
@@ -151,7 +156,7 @@ letter-spacing: 0.2px;
     color: var(--Light-text, #FFF);
 
 /* Button */
-font-family: Montserrat;
+font-family: "Montserrat", sans-serif;
 font-size: 16px;
 font-weight: 700;
 line-height: 28px; /* 175% */
@@ -172,7 +177,7 @@ letter-spacing: 0.2px;
 text-align: right;
 
 /* Subtitle */
-font-family: Roboto;
+
 font-size: 12px;
 font-weight: 700;
 line-height: 18px; /* 150% */
